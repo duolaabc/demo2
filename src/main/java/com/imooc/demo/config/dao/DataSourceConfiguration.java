@@ -58,7 +58,7 @@ public class DataSourceConfiguration {
         dataSource.setCheckoutTimeout(10000);
         // 连接失败重试次数
         dataSource.setAcquireRetryAttempts(2);
-        return dataSource;
+        return dataSource;   
     }
 
 }
