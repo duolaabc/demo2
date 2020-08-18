@@ -18,6 +18,9 @@ public class Hello {
 
 
 
+    int i=1;
+    int j=2;
+
 
 }
 //3
