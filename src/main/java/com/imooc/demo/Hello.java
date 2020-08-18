@@ -18,6 +18,6 @@ public class Hello {
 
 
 
-
+    int i=3;
 }
 //3
