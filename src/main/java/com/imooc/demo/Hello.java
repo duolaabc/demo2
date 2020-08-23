@@ -18,6 +18,13 @@ public class Hello {
 
 
 
+<<<<<<< HEAD
     int i=3;
+=======
+    int i=3;
+    int j=2;
+
+
+>>>>>>> feature_2
 }
 //3
